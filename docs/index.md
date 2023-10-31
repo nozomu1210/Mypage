@@ -35,3 +35,5 @@
 
 hoge[hoge](./hoge.md)
 fuga[fuga](./fuga/fuga.md)
+
+![ほげ](./hoge.png)
